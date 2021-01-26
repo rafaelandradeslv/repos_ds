@@ -1,2 +1,5 @@
 # repos_ds
-Foi dada a largada no dia 06/01/2021, iniciando as aulas de Data Science com o @meigaromds. Este repositório é dedicado especialmente as aulas  para demonstração da evolução de um iniciante em ciência de dados, aplicando todos os métodos aprendidos. 
+A largada foi no dia 06/01/2021, iniciando as aulas de Data Science com @meigaromds. 
+
+Este repositório destina-se especificamente a aulas para demonstrar a a minha evolução 
+como iniciante em Ciência De Dados, usando todos os métodos aprendidos.
