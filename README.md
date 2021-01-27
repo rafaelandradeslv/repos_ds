@@ -1,5 +1,11 @@
-# repos_ds
-A largada foi no dia 06/01/2021, iniciando as aulas de Data Science com @meigaromds. 
+# Do Py ao DS 
+Iniciado em 06/01/2021, aulas de Data Science com @meigaromds. 
 
-Este repositório destina-se especificamente a aulas para demonstrar a a minha evolução 
+YouTube: Seja Um Data Scientist
+
+Este repositório destina-se especificamente a aulas para demonstrar a evolução 
 como iniciante em Ciência De Dados, usando todos os métodos aprendidos.
+
+Para alunos que visitam e querem comparar códigos:
+
+Acesse a pasta 'exercícios', lá contém os arquivos de cada aula.
